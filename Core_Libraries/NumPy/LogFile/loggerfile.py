@@ -14,5 +14,4 @@ def Logger(set_level,text):
     elif(set_level=="warning"):
         logging.basicConfig(filename="LogFile/logger.log",level=logging.WARNING,format='%(levelname)s :%(funcName)s : %(asctime)s : %(name)s : %(message)s') 
         logger.warning(text)
-    else:
-        print("do noting")
+
