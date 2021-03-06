@@ -4,3 +4,5 @@
 *.log
 #ignore __init__.py
 *__init__.py
+#ignore .ipynb_checkpoints
+.ipynb_checkpoints
