@@ -1,6 +1,7 @@
 # Core Python Libraries
 
-This branch contain all the code of python libraries which are
+This dir contain all code of matplotlib related to plot attribute
 
-* pandas
-* numpy
+* draw single and multiple line
+* draw line with different colour, lengends, style, width etc.
+* draw line in suplot
