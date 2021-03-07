@@ -1,4 +1,4 @@
-# Core Python Libraries
+# Visualization Libraries
 
 This dir contain all code of matplotlib related to plot attribute
 
