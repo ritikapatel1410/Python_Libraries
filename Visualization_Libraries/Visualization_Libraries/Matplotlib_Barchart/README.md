@@ -1,7 +1,7 @@
 # Core Python Libraries
 
-This dir contain all code of matplotlib related to plot attribute
+This dir contain all code of matplotlib related to Barchart
 
-* draw single and multiple line
-* draw line with different colour, lengends, style, width etc.
-* draw line in suplot
+* draw single and multiple values on same Barchart
+* Barchart with different colour, lengends, width etc.
+
