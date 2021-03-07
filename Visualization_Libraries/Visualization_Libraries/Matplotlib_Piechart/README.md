@@ -1,7 +1,7 @@
-# Core Python Libraries
+# Visualization Libraries
 
-This dir contain all code of matplotlib related to Barchart
+This dir contain all code of matplotlib related to Piechart
 
-* draw single and multiple values on same Barchart
-* Barchart with different colour, lengends, width etc.
+* draw Piechart
+* Piechart with different colour, legals, shadow, explode etc.
 
