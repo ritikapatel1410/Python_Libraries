@@ -2,6 +2,6 @@
 
 This contain all the code related to functionality of Seaborn python libraries
 
-* work on dataframe and series
-* work on append, remove and replace data from dataframe and series
-* work on iterate dataframe and series
+* draw Bar plot, pointplot, Scatterplot,Violin Plot, BoxPlot etc.
+* set frame, color, hue on graph
+* set title and axislabel color, font size, style etc. 
