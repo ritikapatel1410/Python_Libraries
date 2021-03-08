@@ -1,7 +1,7 @@
 # Visualization Libraries
 
-This dir contain all code of matplotlib related to Piechart
+This dir contain all code of matplotlib related to Scatterchart
 
-* draw Piechart
-* Piechart with different colour, legals, shadow, explode etc.
+* draw Scatter for single or multiple values
+* Scatter with different colour, legals, alpha etc.
 
